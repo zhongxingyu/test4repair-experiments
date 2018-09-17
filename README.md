@@ -10,8 +10,8 @@ Zhongxing Yu, Matias Martinez, Benjamin Danglot, Thomas Durieux and Martin Monpe
 
 Bibtex Entry:
 
-@article{yu:hal-01774223,
- title = {{Alleviating Patch Overfitting with Automatic Test Generation: A Study of Feasibility and Effectiveness for the Nopol Repair System}},
+@article{yu:hal-01774223, 
+ title = {{Alleviating Patch Overfitting with Automatic Test Generation: A Study of Feasibility and Effectiveness for the Nopol Repair   System}},
  author = {Yu, Zhongxing and Martinez, Matias and Danglot, Benjamin and Durieux, Thomas and Monperrus, Martin},
  url = {https://hal.inria.fr/hal-01774223/file/alleviating_Overfitting.pdf},
  journal = {{Empirical Software Engineering}},
